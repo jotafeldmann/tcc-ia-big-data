@@ -1,11 +1,11 @@
-# Simulando multi-agentes em jogos de tabuleiro por turnos, utilizando aprendizagem por reforço via Value-Decomposition Network e Gymnasium API
+# Simulating multi-agent turn-based board games using reinforcement learning via Value-Decomposition Network and Gymnasium API
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jotafeldmann/tcc-ia-big-data/blob/main/tcc.ipynb)
 
-- Autor: Jorge de Melo Feldmann
-- Trabalho de conclusão de curso apresentado ao Departamento de Ciências de Computação do Instituto de Ciências Matemáticas e de Computação, Universidade de São Paulo - ICMC/USP, como parte dos requisitos para obtenção do título de Especialista em Inteligência Artificial e Big Data.
-- Área de concentração: Inteligência Artificial
-- Orientador: Prof. Dr.  Fernando Santos Osório
+- Author: Jorge Feldmann
+- The final paper presented to the Department of Computer Sciences of the Institute of Mathematical and Computer Sciences, University of São Paulo - ICMC/USP, as part of the requirements to obtain the title of Specialist in Artificial Intelligence and Big Data.
+- Focus: Artificial Intelligence
+- Advisor: Prof. Dr.  Fernando Santos Osório
 
-## Sobre
-Este repositório contém o trabalho mencionado, bem como todo o material utilizado.
+## About
+This repository contains the mentioned work and all the material used.
