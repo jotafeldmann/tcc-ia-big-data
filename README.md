@@ -1,4 +1,4 @@
-# Simulando jogos de tabuleiro multiagente por turnos usando aprendizado por reforço via Value-Decomposition Network e API Gymnasium
+# Simulando jogos de tabuleiro multiagente por turnos usando aprendizado por reforço via Value-Decomposition Network e Gymnasium API
 
 [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jotafeldmann/tcc-ia-big-data/blob/main/tcc.ipynb)
 
